@@ -9,7 +9,10 @@ Conocimientos en frontend con Vue.js y bases de datos SQL y NoSQL. Aplicación d
 SOLID, patrones de diseño y buenas prácticas de testing para garantizar un código mantenible y de
 alta calidad.
 
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg" height="28px" width="28px" /> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" height="28px" width="28px" /> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" height="28px" width="28px" /> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" height="28px" width="28px" /> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" height="28px" width="28px" /> 
+### Tecnologías y Herramientas:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vue,vite,jquery,php,laravel,nodejs,express,sequelize,postgres,mysql,mongodb,docker,git,github,postman,aws" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarvajal1995&layout=compact&theme=radical)](https://github.com/jessicarvajal1995)
-

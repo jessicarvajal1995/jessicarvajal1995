@@ -1,7 +1,7 @@
 
-<h3>¡Hola 👋! mi nombre es Jessika Carvajal :information_desk_person:💻</h3>
+<h3>¡Hi 👋! mi nombre es Jessika Carvajal :information_desk_person:💻</h3>
 
-### 📝Sobre mi
+### 📝About me
 Backend Software Engineer | Computer Engineer with 5+ years of experience building and evolving microservices. Focused on developing scalable backend solutions, maintaining distributed systems, and delivering clean, reliable code.
 
 Contact:
